@@ -33,4 +33,4 @@ GROQ_API_KEY=your_groq_api_key  # Get from https://console.groq.com (Fast infere
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000)  
+Open [http://localhost:3500](http://localhost:3000)  
